@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46344465241",
+    "project_id": "dacnmusic",
+    "storage_bucket": "dacnmusic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46344465241:android:37b8fd7f56c3894af9ba48",
+        "android_client_info": {
+          "package_name": "com.example.dacn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8QGSINWKZstspI5fRQtJmOewPomctuGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
